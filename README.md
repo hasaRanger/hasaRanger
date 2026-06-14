@@ -40,7 +40,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/wakatime?username=hasaRanger&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59F7&text_color=ffffff&icon_color=7B2FBE&layout=compact&langs_count=6" />
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasaRanger&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59F7&text_color=ffffff&icon_color=7B2FBE&layout=compact&langs_count=8&card_width=340" />
 
 I'm a **Software Engineer** based in Sri Lanka with a strong foundation in full-stack web development and a product-engineering mindset. I architect and ship end-to-end systems — from responsive, accessible frontends to robust, scalable backend APIs and database layers.
 
@@ -115,7 +115,7 @@ availability: Open to full-time roles & freelance collaborations
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasaRanger&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59F7&text_color=ffffff&icon_color=7B2FBE&include_all_commits=true&count_private=false" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasaRanger&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59F7&text_color=ffffff&icon_color=7B2FBE&include_all_commits=true&count_private=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasaRanger&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59F7&text_color=ffffff&icon_color=7B2FBE&custom_title=Contribution%20Breakdown&rank_icon=percentile&show=prs_merged,prs_merged_percentage,discussions_started,discussions_answered" />
 
 <br/><br/>
 
@@ -127,11 +127,26 @@ availability: Open to full-time roles & freelance collaborations
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=hasaRanger&theme=discord&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7)
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/github/stars/hasaRanger?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=7B2FBE&labelColor=141321" />
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/github/followers/hasaRanger?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=9B59F7&labelColor=141321" />
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FhasaRanger&query=public_repos&style=for-the-badge&logo=github&logoColor=white&label=Public%20Repos&color=6C3CE1&labelColor=141321" />
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FhasaRanger&query=public_gists&style=for-the-badge&logo=github&logoColor=white&label=Public%20Gists&color=7B2FBE&labelColor=141321" />
+</td>
+</tr>
+</table>
 
 </div>
 
