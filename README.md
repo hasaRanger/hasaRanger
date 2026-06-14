@@ -102,7 +102,6 @@ availability: Open to full-time roles & freelance collaborations
 
   <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,spring,bun,firebase,mongodb,mysql,postgres,prisma,nginx&theme=dark" />
 
-<br/>
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 &nbsp;
