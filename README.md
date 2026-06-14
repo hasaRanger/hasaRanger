@@ -92,15 +92,15 @@ availability: Open to full-time roles & freelance collaborations
 
 ### ◈ Languages
 
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,php,html,css,markdown&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,php,html,css,markdown&theme=dark" />
 
 ### ◈ Frontend
 
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,vite,jquery,figma,canva&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,vite,jquery,figma,canva&theme=dark" />
 
 ### ◈ Backend & Databases
 
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,spring,bun,firebase,mongodb,mysql,postgres,prisma,nginx&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,spring,bun,firebase,mongodb,mysql,postgres,prisma,nginx&theme=dark" />
 
 <br/>
 
@@ -115,7 +115,7 @@ availability: Open to full-time roles & freelance collaborations
 ### ◈ Cloud, DevOps & Tooling
 
 
-<img src="https://skillicons.dev/icons?i=androidstudio,vscode,idea,blender,vercel,postman,git,githubactions,github,gitlab,docker,ps,pr&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=androidstudio,vscode,idea,blender,vercel,postman,git,githubactions,github,gitlab,docker,ps,pr&theme=dark" />
 
 
 <br/>
