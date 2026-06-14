@@ -1,30 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Nadeesha%20Hasaranga&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nadeesha%20Hasaranga&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=62&descSize=17&stroke=9B59F7&strokeWidth=2" />
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=9B59F7&center=true&vCenter=true&repeat=true&width=750&lines=⚡+Building+scalable+full-stack+systems;🏗️+Crafting+elegant+backend+architectures;🚀+Shipping+production-grade+web+applications;🧠+Turning+complex+problems+into+clean+code;🌐+Designing+APIs+that+scale+to+millions)](https://git.io/typing-svg)
+
+</div>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=9B59F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+scalable+full-stack+systems;Crafting+elegant+backend+architectures;Shipping+production-grade+web+applications;Turning+complex+problems+into+clean+code)](https://git.io/typing-svg)
+<div align="center">
+
+![Location](https://img.shields.io/badge/📍%20Sri%20Lanka-0D1117?style=for-the-badge&labelColor=0D1117&color=7B2FBE)
+&nbsp;
+![Status](https://img.shields.io/badge/🟢%20Open%20To%20Work-0D1117?style=for-the-badge&labelColor=0D1117&color=7B2FBE)
+&nbsp;
+![Focus](https://img.shields.io/badge/⚙️%20Full%20Stack%20%26%20Cloud-0D1117?style=for-the-badge&labelColor=0D1117&color=9B59F7)
+&nbsp;
+![Experience](https://img.shields.io/badge/💼%20Software%20Engineer-0D1117?style=for-the-badge&labelColor=0D1117&color=6C3CE1)
+
+</div>
 
 <br/>
 
-![Location](https://img.shields.io/badge/📍%20Sri%20Lanka-141321?style=for-the-badge&labelColor=141321&color=7B2FBE)
-&nbsp;
-![Status](https://img.shields.io/badge/Status-Open%20To%20Work-7B2FBE?style=for-the-badge&labelColor=141321)
-&nbsp;
-![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI%20Engineering-9B59F7?style=for-the-badge&labelColor=141321)
+<div align="center">
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-nadeesha.dev-7B2FBE?style=for-the-badge&logo=safari&logoColor=white&labelColor=141321)](https://nadeesha.dev)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-nadeesha.dev-7B2FBE?style=for-the-badge&logo=safari&logoColor=white&labelColor=141321)](https://nadeesha.dev)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nadeesha--hasaranga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=141321)](https://www.linkedin.com/in/nadeesha-hasaranga)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=141321)](https://www.linkedin.com/in/nadeesha-hasaranga)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-nadeesha.hcs%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=141321)](mailto:nadeesha.hcs@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=141321)](mailto:nadeesha.hcs@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-hasaRanger-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=141321)](https://github.com/hasaRanger)
 
+</div>
+
 <br/>
+
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hasaRanger&style=for-the-badge&color=7B2FBE&labelColor=141321&label=PROFILE+VIEWS)
 &nbsp;
@@ -36,11 +52,11 @@
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasaRanger&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59F7&text_color=ffffff&icon_color=7B2FBE&layout=compact&langs_count=8&card_width=340" />
+
 
 I'm a **Software Engineer** based in Sri Lanka with a strong foundation in full-stack web development and a product-engineering mindset. I architect and ship end-to-end systems — from responsive, accessible frontends to robust, scalable backend APIs and database layers.
 
@@ -70,44 +86,47 @@ availability: Open to full-time roles & freelance collaborations
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## 🛠️ Tech Stack
 
-### Languages
+<div align="center">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,php,html,css,markdown&theme=dark&perline=10" />
-</p>
+### ◈ Languages
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,php,html,css,markdown&theme=dark&perline=10" />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,jquery,figma,canva&theme=dark&perline=10" />
-</p>
+### ◈ Frontend
 
-### Backend & Databases
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,jquery,figma,canva&theme=dark&perline=10" />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,postgres,prisma,nginx&theme=dark&perline=10" />
-</p>
+### ◈ Backend & Databases
 
-&nbsp;<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black" />&nbsp;
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
-
-### Cloud, DevOps & Tooling
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,digitalocean,postman,git,github,vscode&theme=dark&perline=10" />
-</p>
-
-&nbsp;<img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,firebase,mongodb,mysql,postgres,prisma,nginx&theme=dark&perline=10" />
 
 <br/>
 
----
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+&nbsp;
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black)
+&nbsp;
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+&nbsp;
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
+
+### ◈ Cloud, DevOps & Tooling
+
+<img src="https://skillicons.dev/icons?i=vercel,postman,git,github,gitlab,&theme=dark&perline=10" />
+
+<br/>
+
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## 🚀 GitHub Analytics
 
@@ -125,34 +144,51 @@ availability: Open to full-time roles & freelance collaborations
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## 🏆 Achievements
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/github/stars/hasaRanger?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=7B2FBE&labelColor=141321" />
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/github/followers/hasaRanger?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=9B59F7&labelColor=141321" />
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FhasaRanger&query=public_repos&style=for-the-badge&logo=github&logoColor=white&label=Public%20Repos&color=6C3CE1&labelColor=141321" />
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FhasaRanger&query=public_gists&style=for-the-badge&logo=github&logoColor=white&label=Public%20Gists&color=7B2FBE&labelColor=141321" />
-</td>
-</tr>
-</table>
+<br/>
+
+![Stars](https://img.shields.io/github/stars/hasaRanger?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=7B2FBE&labelColor=141321)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/hasaRanger?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=9B59F7&labelColor=141321)
+&nbsp;
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FhasaRanger&query=public_repos&style=for-the-badge&logo=github&logoColor=white&label=Public%20Repos&color=6C3CE1&labelColor=141321)
+&nbsp;
+![Gists](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FhasaRanger&query=public_gists&style=for-the-badge&logo=github&logoColor=white&label=Public%20Gists&color=7B2FBE&labelColor=141321)
+
+<br/>
 
 </div>
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+<br/>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=141321)]([https://leetcode.com/hasaRanger](https://leetcode.com/u/2Gh0uKENhG/))
+&nbsp;&nbsp;
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=141321)]([https://www.hackerrank.com/hasaRanger](https://www.hackerrank.com/profile/hasaranganadees1))
+&nbsp;&nbsp;
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=141321)](https://auth.geeksforgeeks.org/user/hasaRanger)
+&nbsp;&nbsp;
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=141321)](https://www.codechef.com/users/hasaRanger)
+
+<br/>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## 📈 Contribution Activity
 
@@ -164,7 +200,7 @@ availability: Open to full-time roles & freelance collaborations
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## 🐍 Contribution Snake
 
@@ -180,7 +216,7 @@ availability: Open to full-time roles & freelance collaborations
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## 🎯 Current Focus
 
@@ -208,7 +244,7 @@ open_to:
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## 🤝 Connect With Me
 
@@ -230,14 +266,16 @@ open_to:
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <div align="center">
+
+<br/>
 
 *"First, solve the problem. Then, write the code."* — John Johnson
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=fadeIn&stroke=9B59F7&strokeWidth=2" />
 
 </div>
